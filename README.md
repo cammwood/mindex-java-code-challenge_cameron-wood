@@ -55,6 +55,8 @@ The Employee has a JSON schema of:
 ```
 For all endpoints that require an "id" in the URL, this is the "employeeId" field.
 
+Swagger documentation can be found at http://localhost:8080/swagger-ui/index.html.
+
 ## What to Implement
 Clone or download the repository, do not fork it.
 
